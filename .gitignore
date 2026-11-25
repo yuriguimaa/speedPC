@@ -1,0 +1,6 @@
+# Relatórios, logs e capturas geradas localmente (podem conter dados das máquinas)
+*.html
+*.log
+*.json
+*.zip
+capturas/
